@@ -1,0 +1,14 @@
+[
+    {
+        "id": "2",
+        "gambar": "http:\/\/localhost\/latihanapi-server\/img\/3447660149.png",
+        "judul": "pesut balap",
+        "deskripsi": "ngenggggg"
+    },
+    {
+        "id": "3",
+        "gambar": "http:\/\/localhost\/latihanapi-server\/img\/tom-and-jerry.jpg",
+        "judul": "meow meow",
+        "deskripsi": "anjayyyyy"
+    }
+]
